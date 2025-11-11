@@ -19,7 +19,6 @@ int fun1(int n){
 int main(){
     int r;
     int s;
-
     r=fun(5);
     s=fun1(5);
     cout<<r<<endl;
