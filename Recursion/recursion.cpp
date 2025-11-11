@@ -7,7 +7,7 @@ void print(int n)
         cout << n << endl;
         print(n - 1);
 
-        // Tail Recursion
+        // Head Recursion
         print(n - 1);
         cout << n << endl;
     }
