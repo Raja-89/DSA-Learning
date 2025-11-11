@@ -9,6 +9,7 @@ int fun(int n)
         sun(n-1);
     }
 }
+
 int sun(int n)
 {
     if(n>1)
